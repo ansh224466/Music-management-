@@ -1,14 +1,14 @@
 {
-      "name": "𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀",
+      "name": "🍁𝐌𝐄𝐆𝐔𝐌𝐈 𝐅𝐔𝐒𝐇𝐈𝐆𝐔𝐑𝐎🍁",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
-      "logo": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg",
+      "logo": "https://telegra.ph//file/2738b3d36c303fb9c9b18.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+   "repository": "https://github.com/ansh224466/music-management",
    "stack": "heroku-22",
    "addons": [
       {
