@@ -10,5 +10,5 @@ updates:
     - "dependencies"
   open-pull-requests-limit: 50
   ignore:
-    - dependency-name: "python-telegram-bot"
+    - dependency-name: "python-telegram-bo"
     
